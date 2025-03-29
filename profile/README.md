@@ -1,7 +1,5 @@
 # Welcome to AXONE
 
-![AXONE Logo](https://static.wixstatic.com/media/2ed769_22e8aee1b16c442fa8b4edc20401102b~mv2.png/v1/fill/w_478,h_102,al_c,lg_1,q_85,enc_auto/2ed769_22e8aee1b16c442fa8b4edc20401102b~mv2.png)
-
 ## Transforming Careers through Expert Training
 
 At AXONE, we specialize in providing top-tier training in Agile, DevOps, and Test Automation. Our mission is to empower professionals with the skills they need to excel in today's fast-paced tech industry.
